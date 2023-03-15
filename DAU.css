@@ -1,0 +1,19 @@
+button {
+    font-size: 36px; /* adjust the size to your preference */
+    font-family: "Garamond", "Baskerville", serif; /* use Times New Roman font */
+    display: inline-block; /* set the display property to inline-block to create a box around the link */
+    padding: 10px; /* add some padding to create space between the link and the box */
+    border: 2px solid; /* add a border to create a box around the link */
+    border-color: honeydew;
+    background-color: inherit;
+    color: whitesmoke;
+    margin-right: auto;
+    margin-top: 10px;
+  }
+
+  body{
+    background-image: url(black.jpg);
+    background-size: cover;
+    font-size: larger;
+    color: whitesmoke
+  }
